@@ -1,3 +1,3 @@
 # Demo
 My first git repo
-Author Lokesh
+Author Lokesh Penchala
